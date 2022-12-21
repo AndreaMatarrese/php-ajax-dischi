@@ -1,0 +1,13 @@
+.main-div{
+  background-color: #1E2D3B ;
+  height: 95vh;
+}
+.disc{
+  background-color: #2E3A46!important   ;
+}
+.author, .year{
+  color: #6D7375;
+}
+.author{
+  margin-bottom: -8px;
+}
